@@ -1,0 +1,29 @@
+.xasan-form{
+    margin-top: 70px;
+    margin-left: 300px;   
+    border:2px double black;
+    width: 750px;
+    display: flex;
+}
+
+.rr{
+    width: 80px;
+    height: 56px;
+background: blue;
+border: 1px solid blue;
+}
+.TT{
+    width: 99%;
+    height: 50px;
+    
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 10px 20px;
+    color: #fff;
+    border: 1px solid red;
+    background-color: green;
+}
